@@ -1,2 +1,1 @@
-# how-to-write-go-code
-How to Write Go Code
+# How to write Go code
